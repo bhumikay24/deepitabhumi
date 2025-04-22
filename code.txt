@@ -8,4 +8,5 @@ printf("HI this is Bhumika")
 =======
 printf("this is deepita");
 >>>>>>> 65c4fed (   deepita added lines)
+printf("end");
 }
