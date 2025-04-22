@@ -10,4 +10,5 @@ printf("this is deepita");
 >>>>>>> 65c4fed (   deepita added lines)
 printf("end");
 printf("file");
+printf("yup");
 }
